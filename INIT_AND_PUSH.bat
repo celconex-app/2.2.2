@@ -5,7 +5,7 @@ cd /d "%~dp0"
 
 git init
 git branch -M main
-git remote add origin https://github.com/arturoochoa06/celconex-app.git
+git remote add origin https://github.com/arturoochoa0606/celconex-secure
 git add .
 git commit -m "🚀 Commit inicial de estructura, documentación y sitio web"
 git push -u origin main
